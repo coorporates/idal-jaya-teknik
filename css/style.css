@@ -379,8 +379,8 @@
 
 /*** Carousel Hero Header Start ***/
 .hero-section {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../img/11.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
+    url(../img/1.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
